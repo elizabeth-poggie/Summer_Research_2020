@@ -44,16 +44,13 @@ Retraining in Breathing:
 
 General Efficacy of Behavioural Therapy:
 - Brief cognitive behaviour therapy (6 – 8 hours) via cellular devices relieved panic attacks for most patients and was more effective then longer treatments. [2]
-- NICD recommends 14 hours of cognitive behaviour therapy in weekly sessions of 1 – 2 hours to be completed within 4 months. [1] Although there is other research that suggests that daily 4?h sessions in week 1, two 2?h sessions in week 2 and one 2?h session in week 3 was just as effective at mediating panic disorders. [7] 
-- Although it must be noted that CBT is much less effective for severe cases [4] 
+- NICD recommends 14 hours of cognitive behaviour therapy in weekly sessions of 1 – 2 hours to be completed within 4 months. [1] Although there is other research that suggests that daily 4hr sessions in week 1, two 2hr sessions in week 2 and one 2hr session in week 3 was just as effective at mediating panic disorders. [7] 
+- It must be noted that CBT is much less effective for severe cases [4] 
 
 
-### Internet’s Role
+### Cognitive Behavioural Therapy Tasks
 
-NICE recommends “FearFighter” for the management of panic and phobia. 
-
-General efficacy of internet CBT: 
-Stress management material confers short?term advantages but is not associated with any long-term improvements on panic severity and related cognitions, negative affect, general wellbeing and end?state functioning. [5] Although, this might have more to do with the fact that most patients relapse regardless of remote or in-person treatment. 
+Treatment that included interoceptive exposure was more effective at post-treatment in terms of panic frequency, overall severity and functioning, and more effective at six-month follow-up in terms of panic frequency, phobic fears and general anxiety and functioning. [6]
 
 
 ### Relapse 
@@ -61,14 +58,18 @@ Stress management material confers short?term advantages but is not associated w
 Most patients relapse. This can be discouraging as this results in patients returning to destructive behaviour (avoidance of fear / catastrophic thoughts) [1]
 
 
-### Relapse Tasks
+### Internet’s Role
 
-Xxx
+NICE recommends “FearFighter” for the management of panic and phobia. 
+
+General efficacy of internet CBT for panic: 
+Stress management material confers short-term advantages but is not associated with any long-term improvements on panic severity and related cognitions, negative affect, general wellbeing and end-state functioning. [5] Although, this might have more to do with the fact that most patients relapse regardless of remote or in-person treatment with regards to panic. 
+
+Cambridge found some examples of computerized therapy for depression and anxiety in 2018 that led to greater satisfaction with treatment long afterwards. [8] 
+
+A plan of action for my application could be to target CBT with regards to pain in the short-term (since this has the best short term outcomes) and then target comorbid behaviours such as depression and anxiety in the long run. (to prevent relapse)
 
 
-### Cognitive Behavioural Therapy Tasks
-
-Treatment that included interoceptive exposure was more effective at post?treatment in terms of panic frequency, overall severity and functioning, and more effective at six?month follow?up in terms of panic frequency, phobic fears and general anxiety and functioning. [6]
 
 
 ## Anxiety Mitigation 
@@ -109,3 +110,6 @@ Since most patients relapse, I can investigate the sorts of tasks patients need 
 https://aps.onlinelibrary.wiley.com/doi/abs/10.1080/13284200500378795
 
 [7] https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0447.2009.01358.x
+
+[8] https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/clinical-efficacy-of-computerised-cognitivebehavioural-therapy-for-anxiety-and-depression-in-primary-care-randomised-controlled-trial/4C713EC5FA40E21F91768F233BAC006E 
+https://www.researchgate.net/profile/David_Goldberg4/publication/237472734_cognitive_behavioural_therapy_for_anxiety_cognitive_behavioural_therapy_for_anxiety_and_depression_in_primary_care_randomised_and_depression_in_primary_care_randomised/links/54679fb80cf20dedafcf505f/cognitive-behavioural-therapy-for-anxiety-cognitive-behavioural-therapy-for-anxiety-and-depression-in-primary-care-randomised-and-depression-in-primary-care-randomised.pdf
