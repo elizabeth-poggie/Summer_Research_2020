@@ -71,7 +71,8 @@ Uncertainty about possible future threats disrupts our ability to mitigate negat
 
 ### Depression: 
 
-xxxx
+Strong lifetime and current comorbidity were found between panic and depression. Comorbidity was associated with greater symptom severity, persistence, role impairment, suicidality and help-seeking, with many findings persisting after controlling for additional comorbid diagnoses. [13]
+
 
 ## Internet’s Role and where I come in
 
@@ -86,27 +87,10 @@ There are no reviews on the play store for android.
  
 The General efficacy of internet CBT for panic is non-optimal. Stress management material confers short-term advantages but is not associated with any long-term improvements on panic severity and related cognitions, negative affect, general wellbeing and end-state functioning. [5] Although, this might have more to do with the fact that most patients relapse regardless of remote or in-person treatment with regards to panic. 
 
-Cambridge found some examples of computerized therapy for depression and anxiety in 2018 that led to greater satisfaction with treatment long afterwards. [8] In 2004 there was a meta-analysis about the general efficacy of treating anxiety / depression. [11]
+Cambridge found some examples of computerized therapy for depression and anxiety in 2018 that led to greater satisfaction with treatment long afterwards. [8] As well, the general way for how the program works can be found here in addition to a bunch of papers published about the efficacy of online treatment of depression with this application [10]. In 2004 there was a meta-analysis about the general efficacy of treating anxiety / depression. [11] 
 
-McGill offers some online resources about the types of activities that are best for mediating depression and anxiety. These factors can be incorporated into the application [12]. 
-
-## General plan of action
-
-A plan of action for my application could be to target CBT with regards to panic in the short-term since this has the best short-term outcome (call this part 1) and then target comorbid behaviours such as depression and anxiety in the long run to prevent relapse. (part 2) SEE IF THIS IS A GOOD IDEA BY ASKING A PROFESSIONAL
-
-### For part 1: 
-
-Despite the lack of user experience, FearFighter was proven clinically to reduce symptoms of anxiety, depression, and panic [9]. With this in mind, I can try to understand what the application was doing right to generate these results and by focusing on user experience, I can mitigate the downsides 
-
-### For part 2: 
-
-For the Cambridge study they ran their study on the efficacy with the web application “Beating the Blues” which is an interactive CBT package and 8 therapy sessions lasting 50 minutes along with ‘homework’ projects for each session. The general way for how the program works can be found here in addition to a bunch of papers published about the efficacy of online treatment of depression with this application. https://www.beatingtheblues.co.uk/how-it-works/#program [10] 
-
-
-
-### General Ideas for further Panic Specific Research
-
-Since most patients relapse, I can investigate the sorts of tasks patients need to deal with relapse and introduce them into later stages of the application’s usage. 
+McGill offers some online resources about the types of activities that are best for mediating depression and anxiety and links you to a bunch of recommended websites and applications. For anxiety, Moodpath - Depression & Anxiety Test, Calm, Breathe2Relax and for depression Thought Diary Pro, 
+Depression CBT Self-Help Guide, CBT Tools for Healthy Living, Self-help Mood Diary, T2 Mood Tracker, Gratitude Journal ~ the original! For depression. The underlying similarities between all these applications can be incorporated into mine [12]. 
 
 
 # Sources 
@@ -137,3 +121,7 @@ https://www.researchgate.net/profile/David_Goldberg4/publication/237472734_cogni
 [11] Cavanagh, K & Shapiro, DA (2004) Computer treatment for common mental health problems. Journal of Clinical Psychology, 60, 239-251.
 
 [12] https://www.mcgill.ca/wellness-hub/self-help/depression
+
+[13] https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/lifetime-panicdepression-comorbidity-in-the-national-comorbidity-survey/504DD463D5C940DD09C301327FAAE731
+
+[14] suicide attempt article https://jamanetwork.com/journals/jamapsychiatry/article-abstract/495102
