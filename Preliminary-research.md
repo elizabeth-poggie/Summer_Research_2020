@@ -86,7 +86,9 @@ There are no reviews on the play store for android.
  
 The General efficacy of internet CBT for panic is non-optimal. Stress management material confers short-term advantages but is not associated with any long-term improvements on panic severity and related cognitions, negative affect, general wellbeing and end-state functioning. [5] Although, this might have more to do with the fact that most patients relapse regardless of remote or in-person treatment with regards to panic. 
 
-Cambridge found some examples of computerized therapy for depression and anxiety in 2018 that led to greater satisfaction with treatment long afterwards. [8] 
+Cambridge found some examples of computerized therapy for depression and anxiety in 2018 that led to greater satisfaction with treatment long afterwards. [8] In 2004 there was a meta-analysis about the general efficacy of treating anxiety / depression. [11]
+
+McGill offers some online resources about the types of activities that are best for mediating depression and anxiety. These factors can be incorporated into the application [12]. 
 
 ## General plan of action
 
@@ -98,7 +100,7 @@ Despite the lack of user experience, FearFighter was proven clinically to reduce
 
 ### For part 2: 
 
-For the Cambridge study they ran their 
+For the Cambridge study they ran their study on the efficacy with the web application “Beating the Blues” which is an interactive CBT package and 8 therapy sessions lasting 50 minutes along with ‘homework’ projects for each session. The general way for how the program works can be found here in addition to a bunch of papers published about the efficacy of online treatment of depression with this application. https://www.beatingtheblues.co.uk/how-it-works/#program [10] 
 
 
 
@@ -129,3 +131,9 @@ https://aps.onlinelibrary.wiley.com/doi/abs/10.1080/13284200500378795
 https://www.researchgate.net/profile/David_Goldberg4/publication/237472734_cognitive_behavioural_therapy_for_anxiety_cognitive_behavioural_therapy_for_anxiety_and_depression_in_primary_care_randomised_and_depression_in_primary_care_randomised/links/54679fb80cf20dedafcf505f/cognitive-behavioural-therapy-for-anxiety-cognitive-behavioural-therapy-for-anxiety-and-depression-in-primary-care-randomised-and-depression-in-primary-care-randomised.pdf
 
 [9] https://apps.apple.com/us/app/fearfighter-ccbt/id1230258838
+
+[10] https://www.beatingtheblues.co.uk/how-it-works/#program
+
+[11] Cavanagh, K & Shapiro, DA (2004) Computer treatment for common mental health problems. Journal of Clinical Psychology, 60, 239-251.
+
+[12] https://www.mcgill.ca/wellness-hub/self-help/depression
