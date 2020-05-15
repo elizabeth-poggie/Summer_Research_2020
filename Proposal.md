@@ -30,7 +30,7 @@ I can investigate the overlap that “Beating the Blues” has with the McGill recom
 
 Downloading every recommended application for panic, depression, and anxiety and comparing their similarities, strengths, and downsides while ensuring all the tasks that are being used are clinically significant. As well, I need to investigate other tasks that are proven successful which are not apparent in any of these applications. 
 
-Total potential cost: 50 CAD
+Total potential cost: 35 CAD
 
 
 ## Software I will use
