@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Panic treatment online has a shockingly low presence despite being shown as an effective treatment measure. The few applications that do exist all have low ratings yet still manage to be government recommended. Mental health applications that are successful primarily focus on anxiety and depression, but not on Panic. Additionally, some of these applications are expensive and not cross-platform. 
+Panic treatment online has a shockingly low presence despite being shown as an effective treatment measure. The few applications that do exist all have low ratings yet still manage to be government recommended. Mental health applications that are successful primarily focus on anxiety and depression, but not on Panic. Additionally, some of these applications are expensive and some are not cross-platform. 
 
 My goal is to develop an opensource cross-platform application for panic mitigation. 
 
