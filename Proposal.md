@@ -2,20 +2,20 @@
 
 ## Introduction 
 
-Panic treatment online has a shockingly low presence. The few applications that exist, which are government recommended, have low ratings. Applications which are more successful in dealing with mental health are targeting anxiety and depression and not focusing as much on Panic. Another issue with a lot of these applications is that some are expensive, and some are not cross platform. 
+Panic treatment online has a shockingly low presence despite being shown as an effective treatment measure. The few applications that do exist all have low ratings yet still manage to be government recommended. Mental health applications that are successful primarily focus on anxiety and depression, but not on Panic. Additionally, some of these applications are expensive and not cross-platform. 
 
-My goal is to develop an opensource application for panic mitigation. 
+My goal is to develop an opensource cross-platform application for panic mitigation. 
 
-A huge question when it comes to treating a panic disorder is how comorbid conditions should be treated and how this can affect the patient’s overall success in the long-term. Comorbid behaviours strongly linked to panic are anxiety and depression. Some studies have even gone as far to state that there are higher rates of suicide attempts among those that struggle with a panic disorder.  
+The issue with treating panic is that most patients relapse just after 3 months post initial treatment. Some studies have shown that cognitive behavioural tasks (CBT) can be effective in the short term when dealing with acute panic, but never in long run. There is only a limited selection of activities that have an impact 6-month post treatment. Consequently, my application will be split into 2 parts where panic is targeted in the short-term, but the comorbid behaviours are focused in the long-term. 
 
-The issue with treating a panic disorder is that most patients relapse just after 3 months post initial treatment. Studies have shown that cognitive behavioural tasks (CBT) can be effective in the short term when dealing with acute panic, but never long term. Only a limited selection of activities have an impact 6-month post treatment. Consequently, my application will be split into 2 parts where panic is targeted in the short term, but the comorbid behaviours are focused in the long-eterm. 
+The main question my application will be trying to answer is that when it comes to treating a panic disorder, how should comorbid conditions be treated and how can this can affect the patient’s overall success in the long run. Comorbid behaviours strongly linked to panic are anxiety and depression. Some studies have even gone as far to show that there are higher rates of suicide attempts among those that struggle with a panic disorder.  
 
 
 ## For part 1: 
 
 I would take inspiration from The National Institute for Health and Clinical Excellence’s recommended panic and phobia application “FearFighter”. Although, this application has 1.5 stars on the App store and no ratings on the play store. Despite the lack of user experience, FearFighter has been proven clinically to reduce symptoms of anxiety, depression, and panic [9]. With this in mind, I can try to understand what the application is doing right to generate these positive results and by focusing on user experience, I can mitigate the downsides associated with this very low rating. 
 
-I will also take inspiration on the recommended applications by the Anxiety and Depression Society of America. They recommend 2 applications which generally target anxiety but do have panic mitigation features. Although, these applications have not been shown clinically to have an impact on overall patient success in panic mitigation and have been criticized by psychologists as not being useful in dealing with acute attacks.   
+I will also take inspiration on the recommended applications by the Anxiety and Depression Society of America. They recommend 2 applications which generally target anxiety and have some panic mitigation features. Although, these applications have not been shown clinically to have an impact on overall patient success in panic mitigation and have been criticized by psychologists for not being useful in dealing with acute attacks.   
 
 Finally, I can incorporate CBT activities with associated long-term improvement for panic treatment (such as interoceptive exposure).
 
@@ -95,12 +95,12 @@ The summer semester examination period is this week. Submit code and final repor
 
 ## Goal
 
-To make a functional opensource application for panic mitigation with CBT tasks that are clinically effective. 
+To make a cross-platform opensource application for panic mitigation with cognitive behavioural tasks (CBT) that are clinically effective. 
 
 
 ## Future Work
 
-Just because the tasks I use are clinically significant does not mean it makes a difference. I would need to test this with many users to see where the application is lacking in a standardized way. 
+Just because the tasks I am using are clinically significant does not mean it makes a difference. I would need to test this with many users to see where the application is lacking in a standardized way. 
 
 
 ## Unintended Consequences of this Research
