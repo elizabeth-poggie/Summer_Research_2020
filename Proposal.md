@@ -45,7 +45,7 @@ JSTOR and Google Scholar are my best friends right now. As well as all the revie
 
 ## Tentative schedule 
 
-*Week 1: May 11 – May 15:* 
+**Week 1: May 11 – May 15:** 
 Preliminary research. 
 
 Week 2: May 18 – May 22: 
