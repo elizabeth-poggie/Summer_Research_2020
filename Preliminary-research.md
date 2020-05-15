@@ -85,6 +85,8 @@ aviboy97, 07/12/2019
 
 There are no reviews on the play store for android. 
  
+Mindshift is another application for mental health that is recommended by the Anxiety and Depression Society of America is Mindshift. This more generally targets anxiety but does have a section for those specifically dealing with panic. This is an app by Anxiety Canada that has positive reviews on the app store [15]. As well, this application has not been proven clinically to be successful. As well, activities that they give the user are not interactive, and are not helpful to acute attacks [16]. Panic relief is another recommended application by some psychiatrists, but you must pay to have access to this application. 
+
 The General efficacy of internet CBT for panic is non-optimal. Stress management material confers short-term advantages but is not associated with any long-term improvements on panic severity and related cognitions, negative affect, general wellbeing and end-state functioning. [5] Although, this might have more to do with the fact that most patients relapse regardless of remote or in-person treatment with regards to panic. 
 
 Cambridge found some examples of computerized therapy for depression and anxiety in 2018 that led to greater satisfaction with treatment long afterwards. [8] As well, the general way for how the program works can be found here in addition to a bunch of papers published about the efficacy of online treatment of depression with this application [10]. In 2004 there was a meta-analysis about the general efficacy of treating anxiety / depression. [11] 
@@ -125,3 +127,7 @@ https://www.researchgate.net/profile/David_Goldberg4/publication/237472734_cogni
 [13] https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/lifetime-panicdepression-comorbidity-in-the-national-comorbidity-survey/504DD463D5C940DD09C301327FAAE731
 
 [14] suicide attempt article https://jamanetwork.com/journals/jamapsychiatry/article-abstract/495102
+
+[15] https://adaa.org/finding-help/mobile-apps
+
+[16] https://www.psyberguide.org/expert-review/mindshift-expert-review/
