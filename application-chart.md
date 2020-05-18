@@ -1,13 +1,13 @@
 # Panic Applications  
 
-## Fear Fighter 
-
-### General information
-- National Institute for Health and Clinical Excellence’s (NICE) recommended CBT for online treatment 
-- “helps people with their anxiety, panic, or phobia” – Play Store
+## Magellan FearFighter 
 
 ### Tasks
 1. 
+
+### Strengths 
+- Recommended by the National Institute for Health and Clinical Excellence’s (NICE)
+- Shown to be clinically significant
 
 ### Issues 
 - Ratings on the App Store
@@ -18,6 +18,8 @@
 ..* “Useless The app crashes after watching the videos at 75% progression in Module 3. I cannot continue further, so I am uninstalling the app and seeking help elsewhere. What a huge waste of time.” CryoDrago, 05/31/2019
 
 ..* “VCS code provided by their website to access the app just pops up an error saying something went wrong, try again. The support on their website had no idea what the app was and recommended I look for a help option on their website - um, that’s how I contacted you in the first place? Their is also a web version of the app and that doesn’t even launch.” BenSS, 05/07/2019
+- Costly [1]
+- Requires a high-quality broadband connection [1]
 
 
 
@@ -28,12 +30,17 @@
 
 ### Tasks
 
-### Issues 
+### Strengths
+- Recommended by the Anxiety and Depression Society of America 
 
+### Issues 
+- Activities that they give the user are not interactive and are not helpful to acute attacks 
 
 ## Panic relief
 
 ### Tasks
+
+### Strengths
 
 ### Issues 
 
@@ -42,12 +49,16 @@
 
 ### Tasks
 
+### Strengths
+
 ### Issues 
 
 
 ## Depression & Anxiety Test
 
 ### Tasks
+
+### Strengths
 
 ### Issues 
 
@@ -56,12 +67,16 @@
 
 ### Tasks
 
+### Strengths
+
 ### Issues 
 
 
 ## Breathe2Relax
 
 ### Tasks
+
+### Strengths
 
 ### Issues 
 
@@ -73,12 +88,16 @@
 
 ### Tasks
 
+### Strengths
+
 ### Issues 
 
 
 ## Thought Diary Pro
 
 ### Tasks
+
+### Strengths
 
 ### Issues 
 
@@ -87,12 +106,16 @@
 
 ### Tasks
 
+### Strengths
+
 ### Issues 
 
 
 ## CBT Tools for Healthy Living
 
 ### Tasks
+
+### Strengths
 
 ### Issues 
 
@@ -101,12 +124,16 @@
 
 ### Tasks
 
+### Strengths
+
 ### Issues 
 
 
 ## T2 Mood Tracker
 
 ### Tasks
+
+### Strengths
 
 ### Issues 
 
@@ -115,5 +142,9 @@
 
 ### Tasks
 
+### Strengths
+
 ### Issues 
 
+
+[1] https://www.psyberguide.org/expert-review/fearfighter-expert-review/
