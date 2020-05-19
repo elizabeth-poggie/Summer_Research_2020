@@ -1,30 +1,14 @@
-# Panic Applications  
+[5] is helpful for finding meta-analysis on different CBT measures. This was published in 2018 (so relatively recently)
 
-## Magellan FearFighter 
+# CBT Analysis
 
-### Context
+## Homework assignments in CBT https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1093/clipsy.7.2.189?sid=worldcat.org
 
-### Tasks
+NOTE: this is used in fear fighter and Beating the blues.
 
-### Strengths 
-- Recommended by the National Institute for Health and Clinical Excellence’s (NICE)[1]
-- Shown to be clinically significant [3]
-- Helps with people in isolation. A study from Cambridge noted that “computer-guided CBT can play a useful part in delivering CBT services in rural areas; and that self-help CBT may be the only treatment option available to some sufferers.” [3]
+---
 
-### Issues 
-- Ratings on the App Store
-..* “This is a tool that is paid for with a government contract. They also portray that they are here to help employees. I downloaded the app on my iPad and it had some display issues in the first section. Then, after putting time aside to part two, it kept playing the SAME video over and over again. I gave up and went to their website to use the online version. At the place where it said, “Click to play”, it did nothing. What a bad joke to tell employees, “We’re here to help” and provide broken apps and a broken website.” Amdavis, 05/05/2020
-
-..* “I’m stuck on a module and the app keeps quitting. I’ve deleted the app and logged out and logged back in, same problems. The content, as far as I have gotten, seems to be helpful, but the app function is terrible, which is why it’s a 1 Star review” aviboy97, 07/12/2019
-
-..* “Useless The app crashes after watching the videos at 75% progression in Module 3. I cannot continue further, so I am uninstalling the app and seeking help elsewhere. What a huge waste of time.” CryoDrago, 05/31/2019
-
-..* “VCS code provided by their website to access the app just pops up an error saying something went wrong, try again. The support on their website had no idea what the app was and recommended I look for a help option on their website - um, that’s how I contacted you in the first place? Their is also a web version of the app and that doesn’t even launch.” BenSS, 05/07/2019
-- Costly, between 200 and 400 CAD[1]
-- Requires a high-quality broadband connection since videos are being streamed to you directly[1]
-- Since this is primarily video based, the activities in the app are not interactive (they do give 
-
-### Concluding observations 
+# Panic CBT  
 
 ## Fear Fighter Project: A context-aware solution for treating acrophobia [4]
 
@@ -61,6 +45,47 @@
 - Another finding that we have not mentioned was the wish for an online community, connected to the program. This opens up a new class of motivation, based on the social interactions. This reasoning is based on how the participants from this study felt that the smart phone in a longer therapeutic treatment without direct contact to a physical therapist cannot stand alone. 
 
 
+## Efficacy in cognitive behavioral therapy for panic disorder [6]
+
+### Context
+
+### Tasks
+
+### Strengths 
+
+### Issues
+
+### Concluding observations 
+
+
+
+## Magellan FearFighter 
+
+### Context
+
+### Tasks
+
+### Strengths 
+- Recommended by the National Institute for Health and Clinical Excellence’s (NICE)[1]
+- Shown to be clinically significant [3]
+- Helps with people in isolation. A study from Cambridge noted that “computer-guided CBT can play a useful part in delivering CBT services in rural areas; and that self-help CBT may be the only treatment option available to some sufferers.” [3]
+- Available online, on IOS, and Android. 
+
+### Issues 
+- Ratings on the App Store
+..* “This is a tool that is paid for with a government contract. They also portray that they are here to help employees. I downloaded the app on my iPad and it had some display issues in the first section. Then, after putting time aside to part two, it kept playing the SAME video over and over again. I gave up and went to their website to use the online version. At the place where it said, “Click to play”, it did nothing. What a bad joke to tell employees, “We’re here to help” and provide broken apps and a broken website.” Amdavis, 05/05/2020
+
+..* “I’m stuck on a module and the app keeps quitting. I’ve deleted the app and logged out and logged back in, same problems. The content, as far as I have gotten, seems to be helpful, but the app function is terrible, which is why it’s a 1 Star review” aviboy97, 07/12/2019
+
+..* “Useless The app crashes after watching the videos at 75% progression in Module 3. I cannot continue further, so I am uninstalling the app and seeking help elsewhere. What a huge waste of time.” CryoDrago, 05/31/2019
+
+..* “VCS code provided by their website to access the app just pops up an error saying something went wrong, try again. The support on their website had no idea what the app was and recommended I look for a help option on their website - um, that’s how I contacted you in the first place? Their is also a web version of the app and that doesn’t even launch.” BenSS, 05/07/2019
+- Costly, between 200 and 400 CAD[1]
+- Requires a high-quality broadband connection since videos are being streamed to you directly[1]
+- Since this is primarily video based, the activities in the app are not interactive (they do give 
+
+### Concluding observations 
+
 ---
 
 # Anxiety Applications 
@@ -74,6 +99,7 @@
 
 ### Issues 
 - Activities that they give the user are not interactive and are not helpful to acute attacks 
+- Does not primarily target panic 
 
 ## Panic relief
 
@@ -119,7 +145,7 @@
 
 ### Issues 
 
-
+---
 
 # Depression Applications
 
@@ -128,11 +154,12 @@
 ### Tasks
 
 ### Strengths
+- Many published papers on its efficacy by Cambridge and other institutions. 
 - Recommended by NICE [2]
 
 
 ### Issues 
-
+- About 150 CAD
 
 ## Thought Diary Pro
 
@@ -187,6 +214,8 @@
 
 ### Issues 
 
+---
+
 # More references
 
 [1] https://www.psyberguide.org/expert-review/fearfighter-expert-review/
@@ -196,3 +225,7 @@
 [3] https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/feasibility-and-effectiveness-of-computerguided-cbt-fearfighter-in-a-rural-area/3984246606A386A41776A71E2776402B
 
 [4] http://www.cse.chalmers.se/research/group/idc/ituniv/sider12/wp-content/uploads/stald-bolow_et_al_paper.pdf
+
+[5] https://link-springer-com.proxy3.library.mcgill.ca/content/pdf/10.1007/s10608-018-9920-y.pdf
+
+[6] https://www.sciencedirect.com/science/article/pii/S0005796714000849
