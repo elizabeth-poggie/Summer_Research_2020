@@ -2,8 +2,9 @@
 
 ## Magellan FearFighter 
 
-### Tasks
+### Context
 
+### Tasks
 
 ### Strengths 
 - Recommended by the National Institute for Health and Clinical Excellence’s (NICE)[1]
@@ -23,22 +24,42 @@
 - Requires a high-quality broadband connection since videos are being streamed to you directly[1]
 - Since this is primarily video based, the activities in the app are not interactive (they do give 
 
+### Concluding observations 
+
 ## Fear Fighter Project: A context-aware solution for treating acrophobia [4]
 
-## Context 
-- research study that focus on motivating and captivating qualities of the smart phone, useful to take into consideration when designing a comprehensive solution like the Fear Fighter Project [4]
-- The basic element for CBT is to have the patient confront and remedy the irrational thought that provokes the anxiety, instead of avoiding it. [4]
-- By increasingly being exposed to their fears and by applying the acquired techniques in the situation, it will gradually reduce the anxiety until the symptoms do no longer occur [4]
-- target group who are people afflicted with a severe condition of acrophobia [4] 
+### Context 
+- research study that focus on motivating and captivating qualities of the smart phone, useful to take into consideration when designing a comprehensive solution like the Fear Fighter Project 
+- The basic element for CBT is to have the patient confront and remedy the irrational thought that provokes the anxiety, instead of avoiding it. 
+- By increasingly being exposed to their fears and by applying the acquired techniques in the situation, it will gradually reduce the anxiety until the symptoms do no longer occur 
+- target group who are people afflicted with a severe condition of acrophobia 
 
-## Tasks 
+### Tasks 
 - learn what the participants experience in certain situations and how they experience it.
 - breathing, focusing and stepping exercises.
-- Example of a focus activity that was effective. Patients are shown an array of randomly scattered colored dots. Subject must focus on the dots, counting each of the blue ones that would appear on the screen. 
+- Example of a focus activity that was effective: Patients are shown an array of randomly scattered colored dots. Subject must focus on the dots, counting each of the blue ones that would appear on the screen. 
 
-## Strengths 
+### Strengths 
+- Subjects saw online tasks as a distraction from the fear, and as a support.
+- Most of the participants expressed that the reasons for this relaxing effect were clearly the sound of a calm voice.
+- Game elements as a motivational factor.
+- Some participants argued that it is nice to have a measure of your success. But success should not be measured in how many points you have achieved. 
 
-## Conclusions
+### Issues
+- Had to be certain motivating elements connected to the smart phone. No one is pushing you to be exposed to your vulnerabilities, it is completely up to you.
+
+### Concluding observations 
+- The play should not take over the goals and rules that are incorporated in the treatment process (where the elements assert as a motivational factor.)
+- An important aspect of the FF treatment process is the relationship between the partial goals and greater promises
+- You need to have something that is “playable” and “seductive”. Playability is important to give the users a sense of joy, drives motivation, reaching a goal, makes a user addicted to the application. Making the application more “seductive” will enhance playability. 
+- in order to withhold subjects in a therapy program, it could be beneficial to integrate the following playability qualities in the design of the smart phone’s application, as ways of engaging the users in an emotional process: Challenge (challenge the users fear and panic like for example, gradually exposing the user to heights if they are afraid of heights), Curiosity, Control (control over the application, e.g. the length of the techniques or which techniques to use, and be able to stop if the anxiety level rises)
+- By combining seductivity and playability, it is possible to create a relationship between the application and the user that is necessary for motivating the user to complete the treatment.
+- creates hints and clues for the user and makes the application more understandable and meaningful
+- In a situation where the users experience anxiety, emotions are controlling them. In these situations, it is important that the play elements are not visible. There should be a fine balance between the seriousness of the situation and the playability qualities.
+- Besides the audible and visual qualities, the smart phone’s ability to portray game elements creates seductive and motivating reasons for the users to engage in the FF treatment.
+- other aspects to include when investigating user experience, such as physical, sensual, cognitive, emotional and aesthetic
+- Another finding that we have not mentioned was the wish for an online community, connected to the program. This opens up a new class of motivation, based on the social interactions. This reasoning is based on how the participants from this study felt that the smart phone in a longer therapeutic treatment without direct contact to a physical therapist cannot stand alone. 
+
 
 ---
 
