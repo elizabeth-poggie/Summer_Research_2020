@@ -1,8 +1,10 @@
 [5] is helpful for finding meta-analysis on different CBT measures. This was published in 2018 (so relatively recently)
 
-# CBT Analysis
+# General CBT Analysis
 
 ## Homework assignments in CBT https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1093/clipsy.7.2.189?sid=worldcat.org
+
+https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/10.1093/clipsy.7.2.189
 
 NOTE: this is used in fear fighter and Beating the blues.
 
@@ -48,15 +50,25 @@ NOTE: this is used in fear fighter and Beating the blues.
 ## Efficacy in cognitive behavioral therapy for panic disorder [6]
 
 ### Context
+- General idea: Understanding change processes in CBT for PD is important since it can lead to **prioritizing effective treatment components and methods, as well as augmenting treatment** for the still large group of non-responders
+-  Catastrophic beliefs: Clark finds the most important factor to be the tendency to catastrophically misinterpret innocuous bodily symptoms or mental events (e.g. that a pounding heart may indicate a heart attack). This can lead to cycles of escalating anxiety leading to a panic attack. CBT for PD disconfirms the catastrophic beliefs and substitutes them with more realistic interpretations of the threatening stimuli, reducing the intensity of anxiety, and breaking the vicious cycle of panic attacks
+- Self-Efficacy: Perceived ability to cope with or control panic attacks, panic self-efficacy, has also been proposed to play a key role in therapeutic change. Results provide some support for **panic self-efficacy as a mediator of outcome in CBT for Panic Disorder (PD), generally on par with catastrophic beliefs** (thinking about the worst-case scenario) in the reviewed studies
+- Anxiety control theories stress the individual's perceived lack of control or inability to cope with anxiety-related bodily symptoms and anxiety-provoking situations as an important determinant for the development and maintenance of PD as well as anxiety disorders in general
+- perceived self-efficacy may determine whether individuals will initiate appropriate coping behavior in a feared situation rather than safety behavior or avoidance, how hard they will try, and how long they will sustain their effort in the face of obstacles and aversive experiences such as anxiety. Thus, 
+- **panic self-efficacy seems important for an individual's motivation and willingness to engage in challenging new behavior.**
+
 
 ### Tasks
 
-### Strengths 
+- panic self-efficacy ( individual's belief in his or her capacity to execute behaviors) as a mediator of therapeutic change 
 
-### Issues
+### Strengths and Issues
+
+- some support was found for panic self-efficacy as a mediator of therapeutic change in CBT for PD, although none of the studies fulfilled all of the four criteria for mediation.
 
 ### Concluding observations 
-
+- the study found strong support for CBT effectively improving panic self-efficacy,
+- in therapy it may be important to increase the focus on building the individual's confidence in coping abilities, not only restricted to situation-specific actions, but also incorporate the individuals perceived ability to handle negative internal states such as bodily symptoms and scary thoughts.
 
 
 ## Magellan FearFighter 
@@ -103,11 +115,31 @@ NOTE: this is used in fear fighter and Beating the blues.
 
 ## Panic relief
 
+### Context
+
+- Offered by Psychiatrist, MD PhD Marianne Geoffroy
+- Give the user 4 tasks to practice (square, arm, chest, body)
+
 ### Tasks
+
+- Chest: recover normal breathing pattern. (avoid deep and frequent breathing during an attack / hyperventilation)
+- Square: breath “in the square”. A common CBT measure. (gives visual and mental focus). Stay in mental control as your body calms down (this seems to be an example of panic self-efficacy)
+- Arm: relaxation technique
+- Body: visualization exercise
+. transform panic into a more manageable sensation. 
 
 ### Strengths
 
+- 4.6 stars on the app store. 
+- “The exercises are effective, and the app explains the panic process well. Most anti-anxiety help tools are very thought-orientated, where this app primarily addresses the physical aspects.” – Anna Dane 2016(this is focusing on panic self efficacy which has been shown to be an effective measure at combating panic)
+
 ### Issues 
+
+- 1.50 on the play store
+- Relitively old app released in 2013
+
+### Concluding remarks
+- 
 
 
 ## Moodpath
