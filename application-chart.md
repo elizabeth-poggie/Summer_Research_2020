@@ -126,10 +126,43 @@ NOTE: this is used in fear fighter and Beating the blues.
 
 ### Strengths
 - Recommended by the Anxiety and Depression Society of America 
+- 4.2 rating on the Play Store and 4.3 on the App Store
+- Makes CBT homework accessible and easy
+- good display
+- you can check in with how you are feeling at any moment. 
+- the charts are helpful
+- reading about symptoms of anxiety is helpful
+- no adds. 
+- free
+- for some users during a panic attack someone can hardly see or move in the attack, but the navigation gets you to guided breathing exercises really fast. 
+
+“i was just searching looking for an app to help me cope with my anxiety and this was the first one i saw. i opened it up once downloaded and was immediately pleased with the lay out and the display of the app. super easy and cute :) love it and would highly recommend.” -  stupidassrapeshit 2019
+- Excellent mindfulness app. And it's free. Recommended for its variety and ease of use. – rocksandsocks 2019
+- “. It also is great at helping me calm down when I need it, especially when I'm having an anxiety attack.” – ElpisX 2019
+- “I love how you can check in with yourself and see how you’re feeling at the moment. That wasn’t something I used to do but I’m so glad I started doing it. It also helps with problems in my daily life and really improves me every day.” - Anyarmills, 2020
 
 ### Issues 
 - Activities that they give the user are not interactive and are not helpful to acute attacks 
-- Does not primarily target panic 
+- Does not primarily target panic
+- Not anonymous. Users feel uncomfortable with sharing how they are feeling and stresses them out further. 
+- voices in the app are rushed and many reviews said they were creepy. 
+- users want to track progress  
+- limited in journal size. 400 characters is too constraining for many users. 
+- once you select a challenge then you cannot delete it and only change it. Users feel forced to complete the task (which is good. Users should be able to start and stop the task when they are feeling overwhelmed)
+- check-ins for comorbid feelings associated with anxiety are not there. If you have a depressive episode, a user would want to record that. 
+- some users find that its not helpful when a panic attack is coming. The app suggests the user to go out and face their fear for for some users the fear is permanent. 
+- for some users the “submit journal” part is not working
+- only a vertical interface (does not translate well to different screen dimensions)
+- not being able to access their anxiety summary. *************
+- “ I wish it had some options in "check ins" for depressive episodes, since the co-morbidity with anxiety is very high. When a depressive episode ensues it tends to be less helpful for tracking in "check ins".” - 2020
+- “Honestly I wasn’t expecting much but it’s a really good app for being free. My only issues is that the voices are lowkey a bit creepy in an unnatural way. I felt I couldn’t relax and they were fast paced as well. Other than that it’s really good.” – Katie 2019
+- “I love this app, I use it as a personal mood journal. Only down fall is I wish it was easier to see how you’ve been overall the week. I only get it after I answered how I’m feeling. Over all 4/5 stars!” – maxxipie 2019
+- Sadly, an account creation is now necessary. Yes it’s “free” but releasing this much personal information doesn’t feel right for an app which was initially designed to be easy, user-friendly and ready instantly. It’s seems generating data has taken priority over providing an amazing service. I will be looking for other options. - Gjg5 2019
+- So far so good! I love the structure, especially for the thought journal. I was anxious even about starting CBT on my own without a resource to use to follow some kind of structure or plan, and this has provided exactly that! Drawbacks noted so far are; there is only enough space for 400 characters when writing, which honestly isn’t enough for a journal I feel. Also once you’ve selected a Challenge Your Comfort zone challenge, it is impossible to delete it, one can only change it. Then what? You have to complete it...I really like the home page, where you check in with an overview smiley - or frown - to indicate how your feeling, then select a level of anxiety and identify how it feels. Then continue to select reasons why you might be feeling those feelings. Then there’s many options to help deal like a Thought Journal, meditations and deep breathing, etc.” - Angel4Men 2019
+
+
+It’s really handy for anyone who needs a little help, and doesn’t want to reach out to a person or can’t.
+
 
 ## Panic relief
 
