@@ -1,6 +1,24 @@
 [5] is helpful for finding meta-analysis on different CBT measures. This was published in 2018 (so relatively recently)
 
-# General CBT Analysis
+# General CBT Notes
+
+## Treatment options without medication for Panic [7]
+
+### Context
+- lasts about twelve sessions for most people
+- some need more than twelve sessions due to other complicating factors such as depression
+
+### Tasks
+- relaxation training: progressive muscle relaxation, breathing training, creative visualization, and mindfulness practice. Studies have shown that over time, people who regularly engage in relaxation exercises are able to recover normal parasympathetic nervous system functioning (lack of functioning in this area is strongly associated with anxiety disorders). relaxation training is often the first intervention, as people often find they are better able to engage in the rest of the treatment more fully once they feel less muscle tension and tightness. 
+- Cognitive Restructuring: designed to help people recognize and significantly alter thought patterns, as a way of shaking up the emotion system and reversing the course of depression and anxiety. begin with identifying automatic thoughts, those thoughts which provide a running commentary to our experience. Instead of accepting all of these thoughts as accurate reflections of reality, the cognitive therapist helps the patient to learn to think of these thoughts as guesses about what is really going on, and consider alternate points of view.
+- Mindfulness: used to help teach people to experience unpleasant physical sensations without reacting negatively to them, thus short-circuiting the vicious cycle of fear and panic. (another way of focusing on panic self-efficacy and dealing with catastrophic beliefs ) most new scientific research looking into the numerous psychological benefits of mindfulness-based interventions. techniques focus on awareness of thoughts and feelings without attachment or judgment. When we are having intense emotions, it is often because we are caught up in our catastrophic interpretations about what is going on.
+- Systematic Exposure treatment: Once people feel less anxious about future panic attacks due to using relaxation training, mindfulness, and cognitive restructuring, they are more able to confront anxiety-provoking situations. In panic disorder, patients are exposed to bodily sensations associated with panic attacks.
+
+### Strengths
+- relaxation training: decreased sleep problems, lowered blood pressure, reduced worry, and decreased impulsive behavior.
+
+
+## CBT Exercises 
 
 ## Homework assignments in CBT https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1093/clipsy.7.2.189?sid=worldcat.org
 
@@ -143,6 +161,7 @@ NOTE: this is used in fear fighter and Beating the blues.
 - Has no voice over and instead has written text to walk you through the steps. It has been suggested by a few studies that having a calming and reassuring voice to walk you through the steps is a key factor when it comes to panic applications. (redoing the application would require written text and a voice over)
 - Some of the animations are choppy and you need to manually reset them if you wish to repeat the exercise. A better strategy would be to let them loop and have the option to stop at any point. 
 - There is the option to skip the written text instructions and get right into the animation. AN issue with this is most people undergoing an attack can forget many minor steps necessary for the exercise. 
+- The website that the app links you to is no longer in service. 
 
 
 ## Moodpath
@@ -264,3 +283,5 @@ NOTE: this is used in fear fighter and Beating the blues.
 [5] https://link-springer-com.proxy3.library.mcgill.ca/content/pdf/10.1007/s10608-018-9920-y.pdf
 
 [6] https://www.sciencedirect.com/science/article/pii/S0005796714000849
+
+[7] http://cogbtherapy.com/cbt-for-panic-attacks
