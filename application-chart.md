@@ -130,16 +130,19 @@ NOTE: this is used in fear fighter and Beating the blues.
 
 ### Strengths
 
-- 4.6 stars on the app store. 
+- 4.6 stars on the app store, Although very few comments. 
 - “The exercises are effective, and the app explains the panic process well. Most anti-anxiety help tools are very thought-orientated, where this app primarily addresses the physical aspects.” – Anna Dane 2016(this is focusing on panic self efficacy which has been shown to be an effective measure at combating panic)
+- “I like how discrete the techniques are, making it possible to do them wherever i might be without drawing attention to myself. Simple and effective.” – KrisBGM 2013
+- There are helpful animations that demonstrate how to do the tasks. 
+- Sometimes panic can feel hot or cold. The app gives you the option to specify which of these feelings it is and reflect that in the animation. 
 
 ### Issues 
 
 - 1.50 on the play store
-- Relitively old app released in 2013
-
-### Concluding remarks
-- 
+- Relatively old app released in 2013
+- Has no voice over and instead has written text to walk you through the steps. It has been suggested by a few studies that having a calming and reassuring voice to walk you through the steps is a key factor when it comes to panic applications. (redoing the application would require written text and a voice over)
+- Some of the animations are choppy and you need to manually reset them if you wish to repeat the exercise. A better strategy would be to let them loop and have the option to stop at any point. 
+- There is the option to skip the written text instructions and get right into the animation. AN issue with this is most people undergoing an attack can forget many minor steps necessary for the exercise. 
 
 
 ## Moodpath
