@@ -20,11 +20,23 @@
 
 ## CBT Exercises 
 
-## Homework assignments in CBT https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1093/clipsy.7.2.189?sid=worldcat.org
+## Homework assignments in CBT [8]
 
-https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/10.1093/clipsy.7.2.189
+### Context
+- relative effectiveness of different types of homework assignments for different client problems.
 
-NOTE: this is used in fear fighter and Beating the blues.
+### Tasks
+
+### Strengths 
+- this is used in fear fighter and Beating the blues.
+- homework assignments facilitate improvement in therapy, and that homework compliance is confirmed as a significant predictor of therapy outcome. 
+
+### Issues 
+
+### Concluding observations
+- homework produces significantly different effects for anxiety and depression samples
+- groups receiving a range of homework activities produced larger effect sizes than groups receiving specific types of homework.
+- homework type, source of homework compliance assessment, and time of homework compliance assessment are strong moderators of (a) homework effects and (b) the relationship between homework compliance and therapy outcome.
 
 ---
 
@@ -157,7 +169,7 @@ NOTE: this is used in fear fighter and Beating the blues.
 - for some users the “submit journal” part is not working
 - only a vertical interface (does not translate well to different screen dimensions)
 - the breathing exercise just has the option of a voice with no text option nor animation. 
-When I click the breathing excersize button it does not take me there right away. It requires a few tries
+When I click the breathing exercise button it does not take me there right away. It requires a few tries
 - not being able to access their anxiety summary. ************* (or symptom specific entries) the thing just gives you a view of your “overall mood”
 - does not allow you to add more symptoms to the mood tracker. (ex depressive episodes etc)
 - “ I wish it had some options in "check ins" for depressive episodes, since the co-morbidity with anxiety is very high. When a depressive episode ensues it tends to be less helpful for tracking in "check ins".” - 2020
@@ -206,10 +218,14 @@ It’s really handy for anyone who needs a little help, and doesn’t want to reach 
 ## Moodpath
 
 ### Tasks
+- Main feature is a journal to track your feelings over time
 
 ### Strengths
+- Voice to walk you through components of the app
 
 ### Issues 
+- To unlock the components that target panic and give you an overview of your progression, it is 40$
+- No animation and no text options. (sometimes people do not have access to 
 
 
 ## Depression & Anxiety Test
@@ -324,3 +340,6 @@ It’s really handy for anyone who needs a little help, and doesn’t want to reach 
 [6] https://www.sciencedirect.com/science/article/pii/S0005796714000849
 
 [7] http://cogbtherapy.com/cbt-for-panic-attacks
+
+[8] https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/10.1093/clipsy.7.2.189
+
