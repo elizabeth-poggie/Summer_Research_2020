@@ -25,18 +25,16 @@
 ### Context
 - relative effectiveness of different types of homework assignments for different client problems.
 
-### Tasks
 
 ### Strengths 
 - this is used in fear fighter and Beating the blues.
 - homework assignments facilitate improvement in therapy, and that homework compliance is confirmed as a significant predictor of therapy outcome. 
 
-### Issues 
-
 ### Concluding observations
 - homework produces significantly different effects for anxiety and depression samples
 - groups receiving a range of homework activities produced larger effect sizes than groups receiving specific types of homework.
-- homework type, source of homework compliance assessment, and time of homework compliance assessment are strong moderators of (a) homework effects and (b) the relationship between homework compliance and therapy outcome.
+- homework type, source of homework compliance assessment, and time of homework compliance assessment are strong moderators of (a) homework effects and (b) the relationship between homework compliance and therapy outcome. 
+- Doing homework might also indicate increased motivation to reach target goals for the patient.
 
 ---
 
