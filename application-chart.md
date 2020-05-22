@@ -123,6 +123,9 @@ NOTE: this is used in fear fighter and Beating the blues.
 ## Mindshift
 
 ### Tasks
+- “Chill zone”: breathing, mindfulness exercise for noticing particular things in the environment, mindful breathing, 
+- “healthy thinking”: mood journal to track feelings over time, belief journal where you state a situation and your feeling about the situation. It gives you a certain amount of time to see if this fear comes true. 
+- “taking action”: building fear ladders, healthy habbits
 
 ### Strengths
 - Recommended by the Anxiety and Depression Society of America 
@@ -148,12 +151,15 @@ NOTE: this is used in fear fighter and Beating the blues.
 - voices in the app are rushed and many reviews said they were creepy. 
 - users want to track progress  
 - limited in journal size. 400 characters is too constraining for many users. 
-- once you select a challenge then you cannot delete it and only change it. Users feel forced to complete the task (which is good. Users should be able to start and stop the task when they are feeling overwhelmed)
+- once you select a challenge then you cannot delete it and only change it. Users feel forced to complete the task (which is not good. Users should be able to start and stop the task when they are feeling overwhelmed)
 - check-ins for comorbid feelings associated with anxiety are not there. If you have a depressive episode, a user would want to record that. 
 - some users find that its not helpful when a panic attack is coming. The app suggests the user to go out and face their fear for for some users the fear is permanent. 
 - for some users the “submit journal” part is not working
 - only a vertical interface (does not translate well to different screen dimensions)
-- not being able to access their anxiety summary. *************
+- the breathing exercise just has the option of a voice with no text option nor animation. 
+When I click the breathing excersize button it does not take me there right away. It requires a few tries
+- not being able to access their anxiety summary. ************* (or symptom specific entries) the thing just gives you a view of your “overall mood”
+- does not allow you to add more symptoms to the mood tracker. (ex depressive episodes etc)
 - “ I wish it had some options in "check ins" for depressive episodes, since the co-morbidity with anxiety is very high. When a depressive episode ensues it tends to be less helpful for tracking in "check ins".” - 2020
 - “Honestly I wasn’t expecting much but it’s a really good app for being free. My only issues is that the voices are lowkey a bit creepy in an unnatural way. I felt I couldn’t relax and they were fast paced as well. Other than that it’s really good.” – Katie 2019
 - “I love this app, I use it as a personal mood journal. Only down fall is I wish it was easier to see how you’ve been overall the week. I only get it after I answered how I’m feeling. Over all 4/5 stars!” – maxxipie 2019
