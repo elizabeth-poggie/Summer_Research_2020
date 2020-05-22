@@ -17,9 +17,6 @@
 ### Strengths
 - relaxation training: decreased sleep problems, lowered blood pressure, reduced worry, and decreased impulsive behavior.
 
-
-## CBT Exercises 
-
 ## Homework assignments in CBT [8]
 
 ### Context
@@ -97,6 +94,12 @@
 ### Concluding observations 
 - the study found strong support for CBT effectively improving panic self-efficacy,
 - in therapy it may be important to increase the focus on building the individual's confidence in coping abilities, not only restricted to situation-specific actions, but also incorporate the individuals perceived ability to handle negative internal states such as bodily symptoms and scary thoughts.
+
+
+## Efficacy of internet-based CBT for PD in psychiatric care
+
+https://s3.amazonaws.com/academia.edu.documents/44813126/Effectiveness_of_Internet-based_cognitiv20160417-8117-ccfod5.pdf?response-content-disposition=inline%3B%20filename%3DEffectiveness_of_Internet-based_cognitiv.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATUSBJ6BABWVKKQOC%2F20200519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200519T184809Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDztVv9gy2K3UXINWY5lYEIag68L8ih7B2s5F8KknFueAIhALR6X6VJlzzATwYxkncqsDEMOzl21DGTucrlOzEHkeCiKr0DCPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMjUwMzE4ODExMjAwIgzEvTEi8MBeOf7R4vwqkQOkHHsrwMtromFg9afZvKCF7UwCWiBqTm9ZS1H3xzCZ97D%2ByCS64G3WR5ps32t7oInmII8hudlx5sbXaEjCDPazeH2ftyMmFPgUJFSpkQ%2FK353vx3ugRi4csQnl1n8QzFcHDSr3KOiHQS5AxQOktpcGZb6hYfzms17nvXUElAemMnLslw3ctLzLsdbtz5L4I3itvQ7PQB80Oh34yiTBOYFu2JG2mppxUssKOGdp%2FSgwfMFVH3MKbdwodPb5x77F%2B6itpJm%2BhMZuWIX2ChCe3B0ZCDTM1EAjFKzO1uCHnsFt%2B4RbcezRALo4QAsU6k2CAMaOBrqJXbvFW5XzYbtupj31AJIqX4N0k9JgEcaHEEq94BlBcQOSnebLCjaJWkpJQApBc2w2vRaJW5NJJKjs2vS3UzW7HZlmfE5VPw%2B2KYZMCGgjKD%2BKG%2FISoLfCRpsU8VPz%2FCTbfH%2Bl0XZz8lXM4On3%2BX7DM2dsbcJ6dXQt95sJ5Tf0fy%2Fvsrdo1FyViNS8%2FcKZhlHFjLq39aFgL%2FUA14dtFjDFyZD2BTrqAf7AAJ1DkU3Hd%2B89447PzK4wSKQxvMQ8eDSNh8WtqNJbV8k1Ty7%2B7Y3AIrbd8oF6qYzDW39idHk6uyGdq0zBc4xC78vT%2B%2B5Ycod8pPWscY0jQHDsJQEYriKcOkhRBFDnkJ8%2F5ko4i2DUhUTMlTF0S%2B%2BfBmTcuf2rl6vzF4rmJC%2F1W1IvNeBcYcNfGqDSv1cLd48B7CUWIHDXck7sIC8b2I2dAN784xgdWP34JXgm7kk4zH6EuoxeTgF6ah8m8OrS8mNPvp1RYTRPRDvHHIIZFybxQXZ%2BHPUuX%2FH69u5uWXAiwv7K8OGQTqTAIg%3D%3D&X-Amz-Signature=53996df04943358daa5426df2cfd8d4b4c853e28e351cf85f2ae262e5b6330ed
+
 
 
 ## Magellan FearFighter 
