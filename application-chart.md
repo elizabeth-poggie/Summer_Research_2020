@@ -288,6 +288,7 @@ It’s really handy for anyone who needs a little help, and doesn’t want to reach 
 ## Breathe2Relax
 
 ### Tasks
+- Simple breathing exercises 
 
 ### Strengths
 -  learning to breathe sounds trivial, but when you learn how to ,"the right way" this way, your whole life will change. with 2 minute cold showers , your going to see process rapidly in just days. Im always trying to find ways to feel better and this cold showers are now in my top.
@@ -298,10 +299,13 @@ It’s really handy for anyone who needs a little help, and doesn’t want to reach 
 - Sometimes getting past the security screens is impossible even when a person is not panicking 
 - I feel like the recordings were cheaply made due to the same words being repeated a lot and used very frequently. I also didn't like that they had to say something everytime I breathe in and out which distracted me from focusing on the breathing.
 - why do you need access to my photos and personal data on my device. just to learn breathing exercises - what is wrong with this picture, i call it spying on peoples privacy. I don't need to say what come next- but go F yourself.
+- Why do I now have to come up with a numeric password to stop my Panic Attack!
 
 ---
 
 # Depression Applications
+
+A lot of these applications seem to be mood journals / trackers with CBT functionality associated with it
 
 ## Beating the Blues
 
@@ -327,10 +331,16 @@ It’s really handy for anyone who needs a little help, and doesn’t want to reach 
 ## Depression CBT Self-Help Guide
 
 ### Tasks
+- Allows you to track your emotions and thoughts
 
 ### Strengths
-
+- . Read the articles, do the exercises, and use the diary. There's a lot of information packed into this app. It might not be the prettiest app, but the content is genuine.
+- The audio tapes are soothing and calming,
+- 
 ### Issues 
+- Outdated interface 
+- Lots of adds 
+- Lots of New-Age stuff in it that some users don’t like (about 70 – 80)
 
 
 ## CBT Tools for Healthy Living
@@ -340,6 +350,8 @@ It’s really handy for anyone who needs a little help, and doesn’t want to reach 
 ### Strengths
 
 ### Issues 
+- Uses points to characterize user success. Other articles strongly encourage not to do this
+- 20 dollars a month or lots of pop up adds 
 
 
 ## Self-help Mood Diary
