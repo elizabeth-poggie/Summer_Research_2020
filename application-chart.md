@@ -124,10 +124,12 @@ Figure 1: Task Summary for the 10 week program used in the study
 <img src="./table.png"/>
 
 ### Strengths 
+- The major clinical implication of this study is that ICBT for panic disorder can be implemented in a routine psychiatric context with effect sizes similar to those found in controlled trials
+- ICBT strongly facilitates systematic collection of data making the treatment format optimal for health caregivers aiming at continuously evaluating treatments.
+- at the ICBT unit, an estimate of the total time spent per treated patient would be less than 5 h. Compared with conventional CBT, which often requires 10–15 1-hour sessions plus time for preparation and administrative work, ICBT seems to be a way of using the therapist time very efficiently
 
 ### Issues
-
-### Concluding observations 
+- complement to conventional psychological treatment and that all patients might not be suitable for or interested in receiving ICBT 
 
 ## Magellan FearFighter 
 
@@ -250,28 +252,37 @@ It’s really handy for anyone who needs a little help, and doesn’t want to reach 
 
 ### Strengths
 - Voice to walk you through components of the app
+-  However, I answered a question about suicide today (having had suicidal thoughts and depression most my life-but haven’t worries too much on actual actions-strictly thoughts). The app went straight into a message and continued with questions. Offering to call an anonymous help line, a text line, or to text a loved one. I clicked on the text a loved one option and it opened my texts with a text ready saying “Can you call me? I’m not doing well and I think I need to talk..” 
 
 ### Issues 
 - To unlock the components that target panic and give you an overview of your progression, it is 40$
 - No animation and no text options. (sometimes people do not have access to 
+- Seems to crash and loose journal entries
+- Logging of information is not stord locally on the application
+- Cant control the times questions are sent to users
+- The only things I would say is I wish the questions were less repetitive and generic... like they were basic depression/anxiety questions and depression/anxiety manifests itself in a variety of ways in different people & a lot of the questions repeated themselves over-and-over again and only sometimes id get a different question. Also on questions instead of just yes and no there should be a “Not applicable” option as well... for instance I’m young and there were questions such as “do you have a deceased sex drive?” And I’m not sexually active so it’s non applicable to me, but that wasn’t an option. Lastly I wish the results of the assessment took into account the severity of the symptoms themselves instead of just the number of symptoms. I feel like you can have a lot of depression symptoms but they might not be that severe or you can 1 or 2 and those happen to be bad symptoms
+- emotions you can mark as how you feel, there is rarely emotions for what I’m feeling, insecure, selfish, the list goes on, and I don’t know about anyone else but my physical state has a large effect on my mood, being sore, or having a headache and so much more should be options to choose as either experiences or emotions, I’m somewhat shocked how that was overlooked
+- I’m not happy to now have to pay for basic features like adding your own edited emotions to the list of ones to choose for each entry. 
+-  it would be beneficial to provide exercises for individuals who have no prior experience with mindfulness.
+- I gave 4 stars though mainly because I consistently lose my journaling if I get interrupted or distracted. It would be better if it kept it open for longer in a draft form.
+-  it would be much easier if I were able to go back & edit a journal entry instead of making a new one if I think of something to add a few minutes later.
+- Most of the time the questions at the beginning don’t apply to me most days. I’d like some sort of setting where you could go in and check like “i want to see these questions often” or “i want to see these questions rarely” based on what does/does not often apply.
 
-
-## Depression & Anxiety Test
-
-### Tasks
-
-### Strengths
-
-### Issues 
 
 
 ## Calm
+- mindfulness app for beginners
 
 ### Tasks
+- Guided meditation sessions of different lengths 
 
 ### Strengths
+- Guided mediations can be good as long as they are not guided by a creepy by a creepy voice
 
 ### Issues 
+- lag
+- 68 dollars per year
+- Good app but it's frustrating that some of the recordings have only one voice. One of the guides has a sugary sweet voice which comes off as fake to me or even a little nutty (just my subjective opinion). I need someone who talks without so much artifice. The person I like isn't available on some of the recordings :( But I do love the app, just want to make this one gripe heard.
 
 
 ## Breathe2Relax
@@ -279,8 +290,14 @@ It’s really handy for anyone who needs a little help, and doesn’t want to reach 
 ### Tasks
 
 ### Strengths
+-  learning to breathe sounds trivial, but when you learn how to ,"the right way" this way, your whole life will change. with 2 minute cold showers , your going to see process rapidly in just days. Im always trying to find ways to feel better and this cold showers are now in my top.
+-  The customization features are great. For a simple, guided mindfullness breathing tool this is the app to use.
 
 ### Issues 
+- Inputting account information is impossible when having a panic attack
+- Sometimes getting past the security screens is impossible even when a person is not panicking 
+- I feel like the recordings were cheaply made due to the same words being repeated a lot and used very frequently. I also didn't like that they had to say something everytime I breathe in and out which distracted me from focusing on the breathing.
+- why do you need access to my photos and personal data on my device. just to learn breathing exercises - what is wrong with this picture, i call it spying on peoples privacy. I don't need to say what come next- but go F yourself.
 
 ---
 
