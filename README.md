@@ -11,3 +11,48 @@ COMP-400 is 4 credits, amounting to ~160 hours of work that will be spread out o
 3. Code and demo the application progress to Vybihal on a semi-regular basis. 
 4. Make a final report that is 10 to 20 pages long. This will follow the typical style of a research paper: introduction (high-level background, motivation), background (what the reader needs to know to understand the remaining content of the report), your contribution (overview, details), related work (work of others that is similar), conclusions and future work (summary, what worked and what did not, what remains to be done, how the project can be improved/expanded). Optional: add appendices (e.g. with details of proofs, algorithms, code) if appropriate.
 5. Fini
+
+## Tentative schedule 
+
+*Week 1: May 11 – May 15:* 
+Preliminary research and emailing another expert in the field about this idea. 
+
+*Week 2: May 18 – May 22:* 
+Investigating and formalizing the specific tasks of focus for the application. 
+
+*Week 3: May 25 – May 29:*
+Coding can start. Make a skeleton for the application. Set up the backend and front end. Decide what the schema for the backend will look like. 
+
+*Week 4: June 1 – June 5:* 
+Start making the home screen breathing CBT module. This will be the template for all other CBT modules. 
+
+*Week 6: June 8 – June 12:*
+Code.
+
+*Week 7: June 15 – June 19:*
+Code. 
+
+*Week 8: June 22 – June 26:*
+Code. 
+
+*Week 9: June 29 – July 3:* 
+I move out this week to some unknown location. Will be delayed this week with the schedule. 
+
+*Week 10: July 6 – July 10:*
+Code. 
+
+*Week 13: July 13 – July 17:*
+Code. Start final report. 
+
+*Week 14: July 20 – July 24:* 
+Code and final report. 
+
+*Week 15: July 27 – August 1:*
+code and final report. 
+
+*Week 16: August 3 – August 7:*
+Finalize code and final report.  
+
+*Week 17: August 10 – August 14:*
+The summer semester examination period is this week. Submit code and final report?  
+

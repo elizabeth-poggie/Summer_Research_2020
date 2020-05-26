@@ -48,50 +48,6 @@ These are some visually appealing libraries that I can incorporate to add the us
 JSTOR and Google Scholar are my best friends right now. As well as all the reviews on the App and Play store. I am in the process of trying to find someone who is knowledgeable in this area of research. 
 
 
-## Tentative schedule 
-
-*Week 1: May 11 – May 15:* 
-Preliminary research and emailing another expert in the field about this idea. 
-
-*Week 2: May 18 – May 22:* 
-Investigating and formalizing the specific tasks of focus for the application. 
-
-*Week 3: May 25 – May 29:*
-Coding can start. Make a skeleton for the application. I have some experience in react but have never dealt with react native before.  
-
-*Week 4: June 1 – June 5:* 
-My internship officially starts. Might be delayed this week with the schedule. 
-
-*Week 6: June 8 – June 12:*
-Code.
-
-*Week 7: June 15 – June 19:*
-Code. 
-
-*Week 8: June 22 – June 26:*
-Code. 
-
-*Week 9: June 29 – July 3:* 
-I move out this week to some unknown location. Will be delayed this week with the schedule. 
-
-*Week 10: July 6 – July 10:*
-Code. 
-
-*Week 13: July 13 – July 17:*
-Code. Start final report. 
-
-*Week 14: July 20 – July 24:* 
-Code and final report. 
-
-*Week 15: July 27 – August 1:*
-code and final report. 
-
-*Week 16: August 3 – August 7:*
-Finalize code and final report.  
-
-*Week 17: August 10 – August 14:*
-The summer semester examination period is this week. Submit code and final report?  
-
 
 ## Goal
 
@@ -106,5 +62,6 @@ Just because the tasks I am using are clinically significant does not mean it ma
 ## Unintended Consequences of this Research
 
 The only advertisements I am getting nowadays are self help applications and online counselling options. 
+
 
 
