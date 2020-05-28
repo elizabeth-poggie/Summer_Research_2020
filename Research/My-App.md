@@ -11,7 +11,10 @@ For this section, an account can automatically be created by tracking their devi
 - At the bottom of the home screen there will be the option to “track your daily mood” and write an entry associated with this mood. Entry form will have a ranking of panic, anxiety, and depression the user might have endured, the scale of the impact, a section to write an entry of any length, and associated symptoms. I am tracking not just panic since anxiety and depression are comorbid to panic. For example, a user might have panic without depression and depression without panic one day even if they experience both. The entry will automatically save as a draft if the user gets distracted and the user will have the option to go back and edit journal entries if they happen to think of something else later that day. 
 
 ## Journal Screen
-- Default screen will be a chart tracking the overall mood of the patient over time with the options to filter by mood or symptom specific categories associated with their journals. If you drag up on the bottom of the screen it will show you all journal entries leading up to the current date. In this case, D3.js  will come in handy for data drive display or if I want to keep things straight forward I can use ant design’s functionality. 
+- Default screen will be a chart tracking the overall mood of the patient over time with the options to filter by mood or symptom specific categories associated with their journals. If you drag up on the bottom of the screen it will show you all journal entries leading up to the current date. In this case, I can use ant design’s functionality. 
+
+- For each entry, the user will have the option to add a journal for a day (from this it will pop up a month selector to choose any day up to and including today) and a time. You can select a mood that reflects how u are feeling from a list of 5 that also allows you to edit these moods at the bottom of the screen. 
+- This then opens a different screen. This screen comes in 3 parts. 1 part for symptoms that allows you to select different sections that apply to you. For example, a panic section, a depression section, an anxiety section. A “what you did today” party where there are different health and wellness sections. A final part dedicated to writing a journal entry. 
 
 ## CBT Homework Screen
 - Studies have found the providing a large arsenal of CBT homework options increased patient success by the end of the trial. Options will include breathing exercises, relaxation training, focusing tasks, cognitive restructuring, mindfulness, and exposure options. 
@@ -20,7 +23,7 @@ For this section, an account can automatically be created by tracking their devi
 
 ## Navigation Bar
 - Options to access the home screen, journal screen, CBT homework screen, [optional] motivating screen, and an about page / contact screen for submitting feedback to the developer. 
-- Navigation can occur by tapping on the icons or swiping the screen. when the user is on a particular page, that section of the navigation bar is highlighted. 
+- Navigation can occur by tapping on the icons or swiping the screen. when the user is on a page, that section of the navigation bar is highlighted. 
 
 ## Motivating Screen [optional, but worth putting more thought into]
 - A study that focused on the efficacy of digital CBT found that applications required a lot of user motivation to complete the CBT tasks as “facing your fear” is difficult when you are alone doing it. Consequently, the application should have a “playability factor” but this should not obscure the goals and rules which are part of the treatment. 
